@@ -1,0 +1,68 @@
+Timestamp,What state are you from?,Major (Check all that apply),At what age did you start programming?,Have you at any point attended private school?,Do you have a scholarship?,Do you have a parent in tech?,Do you study with friends?,Do you take notes in classes?,How many credits did you take last semester?,What is your average screentime?,What is your average daily time on Tik Tok or Tik Tok equivalents?,How many hours of sleep do you get a night?,What was your GPA LAST SEMESTER?,What was your GPA THE SEMESTER BEFORE THAT?
+11/5/2024 14:57:00,NJ,Computer Science,14,No,None,No parents,Sometimes,"Yes, on a tablet",16,5.0,2.0,7.0,2.78,2.6
+11/5/2024 14:57:33,VA,Computer Science,8,No,Partial,Two parents,Sometimes,"Yes, on paper",17,3.5,1.0,7.0,3.9,3.7
+11/5/2024 14:57:41,MD,Computer Science,14,No,Partial,No parents,Frequently,"Yes, on paper",17,6.5,2.0,8.0,3.9,4.0
+11/5/2024 14:57:50,VA,Computer Science,14,No,Partial,One parent,Frequently,"Yes, on paper",18,6.0,2.0,8.0,4.0,4.0
+11/5/2024 14:57:54,CA,"Data, Government and Politics",11,No,Partial,Two parents,Frequently,"Yes, on a computer",15,5.0,1.0,8.0,4.0,4.0
+11/5/2024 14:58:00,MD,Computer Science,15,Yes,None,One parent,Sometimes,"Yes, on paper",17,6.0,1.0,7.0,2.92,3.2
+11/5/2024 14:58:20,MD,Computer Science,12,Yes,None,No parents,Sometimes,"Yes, on paper",16,5.0,0.5,8.0,3.8,3.8
+11/5/2024 14:59:22,MD,Computer Science,17,No,Partial,No parents,Never,"Yes, on a computer",15,5.0,1.0,7.5,3.52,3.83
+11/5/2024 14:59:31,VA,Computer Science,15,No,Partial,No parents,Sometimes,"Yes, on a computer",15,5.0,0.1,7.5,4.0,4.0
+11/5/2024 14:59:38,CA,Computer Science,12,No,Partial,One parent,Frequently,"Yes, on a computer",15,7.0,2.5,7.0,3.625,3.914
+11/5/2024 14:59:43,MD,Computer Science,14,No,None,No parents,Never,"Yes, on a computer",12,4.0,0.001,8.0,3.575,3.657
+11/5/2024 14:59:43,CA,Computer Science,11,Yes,Partial,Two parents,Sometimes,"Yes, on a tablet",18,2.7,1.0,5.0,3.478,3.0
+11/5/2024 14:59:50,PA,Computer Science,12,Yes,None,Two parents,Sometimes,"Yes, on a tablet",15,9.0,11.0,7.0,3.345,3.546
+11/5/2024 14:59:51,MD,"Math, Computer Science",9,No,Partial,Two parents,Never,"Yes, on paper",17,9.0,1.0,8.0,4.0,4.0
+11/5/2024 14:59:53,MD,Computer Science,23,No,Partial,No parents,Never,"Yes, on paper",12,3.5,3.0,6.0,3.3,3.0
+11/5/2024 15:01:41,VA,Computer Science,11,No,None,No parents,Sometimes,"Yes, on a tablet",19,7.0,4.0,7.0,3.91,4.0
+11/5/2024 15:01:54,MD,Computer Science,18,No,Full,No parents,Sometimes,"Yes, on paper",15,8.0,0.5,7.0,4.0,3.94
+11/5/2024 15:02:44,VA,Computer Science,12,No,None,One parent,Sometimes,"Yes, on a tablet",16,5.0,4.0,6.0,3.15,3.3
+11/5/2024 15:07:35,NJ,Computer Science,18,Yes,None,Two parents,Never,"Yes, on a computer",16,5.0,1.0,9.0,3.756,3.639
+11/5/2024 15:11:10,MD,Computer Science,13,No,None,One parent,Sometimes,No,15,8.0,1.0,7.0,3.8,3.764
+11/5/2024 15:15:52,PA,"Math, Computer Science",13,No,Partial,Two parents,Sometimes,No,17,5.0,1.0,7.0,4.0,4.0
+11/5/2024 15:16:54,NJ,"Computer Science, Entrepreneurship and Innovation",12,No,None,Two parents,Frequently,No,12,5.0,3.0,8.0,3.6,3.8
+11/5/2024 15:20:01,MD,Computer Science,10,No,Full,No parents,Sometimes,"Yes, on paper",16,5.0,3.0,10.0,4.0,4.0
+11/5/2024 15:21:44,MD,Computer Science,15,No,Partial,No parents,Never,"Yes, on a tablet",15,5.0,2.5,7.0,3.978,3.971
+11/5/2024 15:26:55,MD,Computer Science,17,No,None,No parents,Sometimes,"Yes, on a computer",15,5.0,2.0,8.0,3.7,3.7
+11/5/2024 15:30:35,Non-US,"Math, Computer Science",14,Yes,None,No parents,Sometimes,"Yes, on paper",15,8.0,0.5,7.0,3.98,3.96
+11/5/2024 15:39:01,NJ,Computer Science,17,No,None,No parents,Sometimes,"Yes, on paper",15,3.0,1.5,8.0,3.1,3.7
+11/5/2024 15:39:29,MA,"Math, Computer Science",10,No,Partial,No parents,Sometimes,"Yes, on paper",16,1.0,6.0,7.5,4.0,4.0
+11/5/2024 15:40:09,CA,Computer Science,10,Yes,None,One parent,Sometimes,No,20,8.0,3.0,6.0,3.8,3.5
+11/5/2024 15:40:46,CA,Computer Science,12,No,Partial,Two parents,Sometimes,"Yes, on a computer",16,7.0,3.0,8.0,4.0,4.0
+11/5/2024 15:49:03,MD,"Math, Computer Science",18,Yes,None,One parent,Never,"Yes, on a computer",15,6.0,1.0,7.0,3.32,3.7
+11/5/2024 15:51:58,MD,"Math, Computer Science",13,No,None,No parents,Sometimes,"Yes, on paper",12,8.0,2.0,6.0,3.675,3.92
+11/5/2024 16:03:32,VA,"Math, Computer Science",13,No,None,One parent,Sometimes,"Yes, on a tablet",16,2.0,0.5,7.0,3.99,3.99
+11/5/2024 16:03:57,nan,Computer Science,15,No,Partial,One parent,Sometimes,"Yes, on a tablet",15,4.0,1.0,7.0,3.1,2.9
+11/5/2024 16:04:31,MD,Computer Science,17,No,None,No parents,Sometimes,"Yes, on a tablet",13,6.5,3.0,7.0,3.2,3.3
+11/5/2024 16:21:50,NJ,"Math, Computer Science",12,No,Partial,Two parents,Frequently,"Yes, on a tablet",15,6.0,0.1,7.0,3.7,3.8
+11/5/2024 17:08:16,MD,Computer Science,16,No,None,No parents,Sometimes,"Yes, on a tablet",13,5.0,2.0,8.0,3.161,2.933
+11/5/2024 17:55:49,MD,"Math, Computer Science",17,No,Partial,No parents,Frequently,"Yes, on paper",17,5.0,1.0,7.0,3.97,4.0
+11/5/2024 19:36:37,NJ,Computer Science,16,No,None,No parents,Sometimes,"Yes, on paper",13,6.0,2.0,5.5,4.0,3.812
+11/5/2024 19:38:36,TX,Computer Science,19,No,Partial,No parents,Never,"Yes, on a tablet",15,5.0,2.0,8.0,4.0,4.0
+11/5/2024 19:39:08,Non-US,Computer Science,18,Yes,None,No parents,Sometimes,"Yes, on a computer",12,5.0,2.0,8.0,3.6,3.4
+11/5/2024 20:54:32,NJ,"Math, Computer Science",1,No,Full,No parents,Never,"Yes, on a tablet",18,1.5,1.0,8.0,4.0,4.0
+11/5/2024 21:42:05,CT,Computer Science,17,No,None,No parents,Sometimes,"Yes, on paper",12,5.0,3.0,7.0,3.65,3.8
+11/5/2024 21:42:36,CT,Computer Science,15,No,Partial,Two parents,Sometimes,"Yes, on a computer",15,7.5,1.7,7.0,3.493,3.22
+11/5/2024 21:44:00,NY,Computer Science,12,No,None,No parents,Sometimes,No,15,6.0,0.5,8.0,2.9,3.0
+11/5/2024 21:47:01,PA,Computer Science,11,No,None,Two parents,Sometimes,"Yes, on paper",13,10.5,4.0,7.0,3.95,3.96
+11/5/2024 22:20:01,MD,"Math, Computer Science",17,No,Partial,No parents,Sometimes,"Yes, on paper",19,10.0,1.0,8.0,4.0,3.6
+11/6/2024 10:01:36,MD,Computer Science,18,No,None,One parent,Sometimes,"Yes, on paper",14,7.0,1.5,7.0,4.0,3.17
+11/6/2024 11:54:18,VA,Computer Science,16,No,None,One parent,Never,"Yes, on a computer",15,5.0,1.0,8.0,3.88,3.94
+11/6/2024 12:37:01,MD,Computer Science,11,No,None,No parents,Sometimes,"Yes, on paper",12,5.0,1.0,7.0,3.5,3.85
+11/6/2024 17:36:18,MD,Computer Science,17,No,None,One parent,Never,"Yes, on a computer",15,5.3833,0.567,7.0,3.54,3.623
+11/6/2024 19:48:47,MD,Computer Science,10,Yes,None,One parent,Sometimes,"Yes, on paper",17,15.0,4.0,5.0,3.47,3.64
+11/6/2024 20:00:11,MD,Computer Science,16,No,None,No parents,Frequently,"Yes, on a tablet",15,16.0,6.0,5.0,3.0,3.2
+11/6/2024 21:26:58,Non-US,Computer Science,16,Yes,None,No parents,Sometimes,"Yes, on paper",17,15.0,4.0,6.5,3.2,3.0
+11/6/2024 23:21:19,MD,Computer Science,18,Yes,None,No parents,Sometimes,"Yes, on a tablet",12,10.0,4.0,7.0,3.75,4.0
+11/7/2024 3:59:29,MD,"Math, Computer Science",15,No,None,Two parents,Sometimes,"Yes, on paper",14,3.0,1.5,6.0,4.0,4.0
+11/7/2024 11:08:10,MD,Computer Science,12,No,None,No parents,Never,"Yes, on paper",15,5.0,1.0,6.0,3.8,3.5
+11/7/2024 11:09:30,MD,Computer Science,18,No,None,No parents,Never,No,17,4.5,0.12,7.0,3.576,3.4
+11/7/2024 11:13:13,MD,Computer Science,14,No,Partial,One parent,Frequently,"Yes, on a computer",15,6.0,1.0,7.0,3.28,3.261
+11/7/2024 20:41:04,MD,"Computer Science, Biochemistry",20,No,None,One parent,Frequently,"Yes, on paper",20,12.0,5.0,6.0,4.0,3.5
+11/14/2024 10:40:00,NJ,Computer Science,13,No,None,Two parents,Sometimes,"Yes, on paper",20,4.0,0.25,6.0,3.95,3.94
+11/14/2024 10:42:43,MD,"Math, Computer Science",13,Yes,None,Two parents,Never,"Yes, on a tablet",16,6.0,0.1,9.0,3.52,3.535
+11/14/2024 12:51:59,MD,Computer Science,16,No,None,One parent,Sometimes,"Yes, on paper",15,5.5,1.0,8.0,3.557,3.504
+11/14/2024 17:37:45,MD,Computer Science,15,No,Full,No parents,Never,"Yes, on paper",17,10.0,1.0,8.0,4.0,4.0
+11/14/2024 20:44:54,MD,Computer Science,17,No,None,No parents,Never,"Yes, on paper",16,5.0,2.0,5.0,3.5,3.7
+11/15/2024 13:21:20,NJ,Computer Science,15,No,None,One parent,Frequently,"Yes, on paper",17,9.0,3.0,6.0,3.894,3.94
+11/18/2024 17:50:04,TX,Computer Science,13,Yes,Partial,No parents,Never,No,15,4.0,1.0,8.0,3.9,3.9
