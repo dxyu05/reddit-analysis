@@ -1,1 +1,1 @@
-Analyzing similarities between student surveys on reddit posts 
+Analyzing similarities between students upbringing/political backgrounds and responses to reddit posts 
